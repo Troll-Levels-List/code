@@ -1,1 +1,18 @@
-
+{
+    "id": 83801688,
+    "name": "Miscellaneous Memory",
+    "author": "Enfur",
+    "creators": ["Enfur"],
+    "verifier": "DaPrinceAtce",
+    "verification": "https://youtu.be/g2XKqyHfM1M",
+    "percentToQualify": 50,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Insurgentes54",
+            "link": "https://youtu.be/JzQJ1RzRg78?si=iYY0m7myjyNxBjVG",
+            "percent": 100,
+            "hz": 
+        }
+    ]
+}
