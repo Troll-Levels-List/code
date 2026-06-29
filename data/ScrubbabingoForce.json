@@ -1,1 +1,18 @@
-
+{
+    "id": 111193316,
+    "name": "Scrubbabingo Force",
+    "author": "akunakunn",
+    "creators": ["akunakunn", "Shubhy"],
+    "verifier": "Popsi",
+    "verification": "https://youtu.be/eT_izuCxGUU",
+    "percentToQualify": 45,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "🇨🇦 Zeronium",
+            "link": "https://youtu.be/653Po2SYE6Q?si=5hxXxg1vaOMLRHjS",
+            "percent": 100,
+            "hz": 
+        }
+    ]
+}
