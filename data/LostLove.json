@@ -8,5 +8,41 @@
     "percentToQualify": "21",
     "password": "Free To Copy",
     "records": [
+{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/PKYy4iy6KOg?si=h5yzlpJ0XNqQzmKx",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Zeronium",
+			"link": "https://youtu.be/BYegqZ-R7vA?si=UVn2mwFgYsvpAAO9",
+			"hz": "280",
+			"percent": 100
+		},
+		{
+			"user": "Soapy",
+			"link": "https://youtu.be/IQ-9ZTV8oac?si=9Qra9rPSLmDknexH",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Cric2",
+			"link": "https://youtu.be/_Y4xMOaogX4?si=PAW7WJ-lpwTqAMlo",
+			"hz": "144",
+			"percent": 100
+        },
+        {
+            "user": "Doli",
+            "link": "https://youtu.be/-X5NgXYXnFM?si=7ZWtHuYOtMbFTDVe",
+            "hz": "244",
+            "percent": 100
+        },
+        {
+            "user": "SebT",
+            "link": "https://youtu.be/QOn5X9zHrqM?si=j9q0ASJxem-9QSzh",
+            "hz": "CBF",
+            "percent": 100
+		}
     ]
 }
