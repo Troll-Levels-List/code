@@ -1,0 +1,36 @@
+{
+    "id": 92466083,
+    "name": "Jupiter My Favorite",
+    "author": "akunakunn",
+    "creators": ["akunakunn", "Leslie"],
+    "verifier": "Leslie",
+    "verification": "https://youtu.be/nHdEUIPpS2k?si=ecEMjHdjcdN4v4N5",
+    "percentToQualify": 60,
+    "password": "Copyable",
+    "records": [
+		{
+			"user": "Influx",
+			"link": "https://youtu.be/WRcTdk5QEbE?si=nR--QE-tQo0VJvIZ",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/773aN-lTWig?si=zj4DQXw503S6zcKW",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "penguinman2200",
+			"link": "https://youtu.be/bs7UDS3vFhY?si=KtThhdie-XtK6GKp",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Enfur",
+			"link": "https://youtu.be/u14LnxgEEX0?si=GZrzv1c5ZljJk_D3",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}
