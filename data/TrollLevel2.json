@@ -8,5 +8,23 @@
     "percentToQualify": "7",
     "password": "Free To Copy",
     "records": [
+        {
+			"user": "Zeronium",
+			"link": "https://youtu.be/-9bv20xFK-0?si=XcZH_8huz70CN6Yo",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Zytrox",
+			"link": "https://youtu.be/7fNm_B4uKqQ?si=Ijmg-EkTHOaMp_VS",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "namealreadytak",
+			"link": "https://youtu.be/AE9fTJbuTMc?si=GRliy41ba_ITOCrs",
+			"hz": "CBF",
+      "percent": 100
+		}
     ]
-} 
+}
